@@ -1,1 +1,1 @@
-# IPYNBrenderer python package for project
+# PYPI python package for project

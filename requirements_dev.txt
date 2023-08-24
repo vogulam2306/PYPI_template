@@ -1,8 +1,4 @@
-ipywidgets
-notebook
-py-youtube
-ensure
-mkdocs-material
+# project requirements below
 
 # dev requirements -
 pytest
